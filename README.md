@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenriqueSouza090
-- 👀 I’m interested in games, programming, soccer, animes
-- 🌱 I’m currently learning HTML, CSS, JavaScritpt
+- 👀 I’m interested in games, programming, soccer, animes. And i'm Tech
+- 🌱 I’m currently learning MySql and Node.Js
 - 📫 How to reach me linkedlin 
 - 😄 Pronouns: he
 - I'm brazzilian guy
